@@ -19,6 +19,7 @@ Aplikasi kontak adalah aplikasi yang dapat melihat kontak yang ada dan juga dapa
 7. @expo/vector-icons Versi 13.0.0
 
 
+![Screenshot_20230322_210724 (1)](https://user-images.githubusercontent.com/101541303/226937985-3db09154-cf83-4027-a0cb-4bdd8d01ef24.jpg)
 
 ![Screenshot_20230322_210724](https://user-images.githubusercontent.com/101541303/226932564-2d087bed-ef89-4356-a5b5-59fef7164d5f.jpg)
 ![Screenshot_20230322_192528](https://user-images.githubusercontent.com/101541303/226932750-7603e4d0-84d3-4a11-9c42-59b0d890f2a7.jpg)
