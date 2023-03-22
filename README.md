@@ -3,11 +3,29 @@
 ##### UTS PENGEMBANGAN APLIKASI MOBILE
 - NAMA : FERAWATI MANURUNG
 - NIM : 120140196
-- KELAS : RB
+- KELAS : RB PAM
 # Nama Aplikasi
 Aplikasi Kontak
 # Deskripsi
 Aplikasi kontak adalah aplikasi yang dapat melihat kontak yang ada dan juga dapat menambahkan kontak.
+
+# Cara Menjalankan Aplikasi
+1. buka command prompt 
+2. cd Pengembangan-Aplikasi-Mobile
+3. npm install
+4. npm start 
+5. Download aplikasi Expo Go
+6. Sambungkan jaringan yang sama antara kedua device
+7. Scan barcode yang muncul pada aplikasi expo go
+8. Ketika aplikasi terinstal akan tampil layar seperti gambar berikut dan klik allow\
+![Screenshot_20230322_205916 (1)](https://user-images.githubusercontent.com/101541303/226940386-86e358e8-956a-419e-9cb5-f7e7eb2b6109.jpg)
+9. tampilan daftar kontak\
+![Screenshot_20230322_210724 (1)](https://user-images.githubusercontent.com/101541303/226937985-3db09154-cf83-4027-a0cb-4bdd8d01ef24.jpg)
+10. Tampilan detail kontak\
+![Screenshot_20230322_192528 (1)](https://user-images.githubusercontent.com/101541303/226939800-d41cdffc-6548-4a3e-9b96-eb70f78eded8.jpg)
+11. Tampilan ketika menambahakan kontak\
+![Screenshot_20230322_192522 (1)](https://user-images.githubusercontent.com/101541303/226939840-bc44e8ae-4aa7-4482-b585-df27f2635878.jpg)
+
 # Package
 
 1. @react-navigation/native Versi 6.0.10
@@ -15,12 +33,7 @@ Aplikasi kontak adalah aplikasi yang dapat melihat kontak yang ada dan juga dapa
 3. @expo Versi 44.0.0
 4. @React Versi 17.0.1
 5. @react-native Versi 0.64.3
-6. @expo-contacts Versi 10.1.0
-7. @expo/vector-icons Versi 13.0.0
+6. @expo/vector-icons Versi 13.0.0
 
-
-![Screenshot_20230322_210724 (1)](https://user-images.githubusercontent.com/101541303/226937985-3db09154-cf83-4027-a0cb-4bdd8d01ef24.jpg)
-
-![Screenshot_20230322_210724](https://user-images.githubusercontent.com/101541303/226932564-2d087bed-ef89-4356-a5b5-59fef7164d5f.jpg)
-![Screenshot_20230322_192528](https://user-images.githubusercontent.com/101541303/226932750-7603e4d0-84d3-4a11-9c42-59b0d890f2a7.jpg)
-![Screenshot_20230322_192522](https://user-images.githubusercontent.com/101541303/226932797-685ce87c-0206-40eb-b94e-94e2dbb17e39.jpg)
+## API
+@expo-contacts Versi 10.1.0
